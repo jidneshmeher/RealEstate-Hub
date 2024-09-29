@@ -2,7 +2,6 @@
 
 ![REALESTATE HUB](https://github.com/user-attachments/assets/518148b7-1b31-4bdf-b24f-eea27c38dd4f)
 
-
 Welcome to the **RealEstate Hub**, a powerful web application designed to streamline the process of buying, selling, and renting properties. This platform connects buyers and sellers, making real estate transactions effortless and efficient.
 
 ### Key Features
@@ -18,12 +17,6 @@ Welcome to the **RealEstate Hub**, a powerful web application designed to stream
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Express JS](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com/)
-
-
-<!-- ## Visual Helper
-
-![RealEstate Hub Demo](path-to-your-demo-video-or-image.gif)  
-*Demo of RealEstate Hub in action.* -->
 
 ## Getting Started
 
